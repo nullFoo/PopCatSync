@@ -1,0 +1,4 @@
+librosa==0.8.1
+ipython==7.28.0
+SoundFile==0.10.3.post1
+pygame==2.0.1
